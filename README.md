@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />! My name is Origin and I'm a web developer.</h2>
+<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />! My name is Origin and I'm a web developer.</h1>
 
 ###
 
