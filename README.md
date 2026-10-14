@@ -1,11 +1,11 @@
-<h2 align="left">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />! I`m something called <b>Curious</b></h2>
+<h2 align="left">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />! I`m something called <strong>Curious</strong></h2>
 
 ###
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 📚 I'm focused on exploring tech, building projects, and picking up new skills 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.js**, **.html**, **.css**
+- 💻 I use daily: **.js**, **.html**, **.css**, **.python**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Sé un poco de español
