@@ -1,14 +1,14 @@
-<h2 align="left">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />! My name is Origin and I'm a web developer.</h2>
+<h2 align="left">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />! I`m something called **Curious**</h2>
 
 ###
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Web Developer working for a European IT Institute in Bangladesh 
+- 📚 I'm focused on exploring tech, building projects, and picking up new skills 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.html**, **.css**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Fun fact: Sé un poco de español
 
 ---
 
